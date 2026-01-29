@@ -9,7 +9,7 @@ Vornehmlich die Software zu den im Kurz gezeiigten Programmen.
 
 ## Links für weitere Informationen und Selbstbildung
 
-[www.arduino.cc](www.arduino.cc)
+[www.arduino.cc](https://www.arduino.cc)
 
 [YouTube: Edi's Lab](https://www.youtube.com/@EdisTechlab)
 
