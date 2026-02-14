@@ -1,5 +1,5 @@
 #define ADC_Pin 0
-#define LED_PIN 4
+//#define LED_PIN 4
 
 void setup() {
   // put your setup code here, to run once:

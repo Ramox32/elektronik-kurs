@@ -12,5 +12,11 @@ void loop() {
   int ADCvalue = analogRead(ADC_Pin);
   Serial.println("ADC: ");
   Serial.print(ADCvalue);
+  int mapValue = map(ADCvalue, 0, 4095, 0, 255);
+  analogWrite(LED_PIN, mapValue);
+
 
 }
+
+
+analogWrite

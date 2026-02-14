@@ -15,10 +15,11 @@ void loop() {
 
   if(buttonPin == LOW){
     digitalWrite(LED_PIN, LOW);
-  } else{
+  }  else {
     digitalWrite(LED_PIN, HIGH);
   }
   
+  buttonPin == LOW? digitalWrite(LED_PIN, LOW) : digitalWrite(LED_PIN, HIGH);
   
 
 }
